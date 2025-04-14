@@ -1,0 +1,39 @@
+.app-container {
+    text-align: center;
+    padding: 2rem;
+    background: #121212;
+    color: #fff;
+    min-height: 100vh;
+  }
+  
+  .upload-container {
+    margin-top: 2rem;
+    background: #1e1e1e;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 10px #0ff;
+  }
+  
+  .upload-container input {
+    margin-bottom: 1rem;
+  }
+  
+  .upload-container button {
+    padding: 0.6rem 1.2rem;
+    background-color: #00c7ff;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-top: 1rem;
+  }
+  
+  .description-container {
+    margin-top: 2rem;
+    text-align: left;
+    background: #222;
+    padding: 1.5rem;
+    border-radius: 10px;
+  }
+  
