@@ -1,0 +1,32 @@
+{
+  "name": "terminator-ai-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "ts-node src/index.ts Calculator",
+    "metricmind": "powershell -ExecutionPolicy Bypass -File .\\setup_windows.ps1 && .\\server_release\\server.exe --debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^0.9.0",
+    "desktop-use": "^1.0.4",
+    "dotenv": "^16.5.0",
+    "fs-extra": "^11.3.0",
+    "handlebars": "^4.7.8",
+    "mime": "^4.0.7",
+    "openai": "^4.95.0",
+    "terminator-ai-tester": "file:",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.14.1"
+  }
+}
