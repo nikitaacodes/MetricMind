@@ -20,7 +20,12 @@ And Generating Test Cases by using Gemini 2.0 flash.
 If software is local then we can make own Test cases.
 
 ---
+##   PPT link
+https://www.canva.com/design/DAGl02-Z-Ac/cirRK_QbFYEfChbI9iez5A/edit?utm_content=DAGl02-Z-Ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+
+##   Video Link
+https://youtu.be/SHKwkyOheNY?si=hVSvD8aMRdtfgIoF
 ## 🧠 Team & Approach
 
 ### Team Name:  
